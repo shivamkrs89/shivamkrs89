@@ -22,9 +22,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
                                                                                                                         
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjali1102&theme=cobalt&show_icons=true" />
 
-![github](https://user-images.githubusercontent.com/56559378/88052779-663cdc00-cb78-11ea-99f8-520ff3c7d037.png)
 
 
 ####  PROGRAMMMER😄🦄 
