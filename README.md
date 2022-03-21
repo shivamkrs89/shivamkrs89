@@ -8,9 +8,7 @@
 shivamkrs89/shivamkrs89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](Hello.gif) 
-![Name](name.gif) 
-![Udit's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
+
 
 <a href="https://www.linkedin.com/in/shivamkrs/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
