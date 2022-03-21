@@ -56,12 +56,11 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 - 🤔 I’m learning RUBY ON RAILS 
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/shivamkrs/">LinkedIn</a>
-- 🐦 <a href="https://www.codechef.com/users/shivamkrs89">Twitter</a>
-- 📝 <a href="http://shivamkrs-portfolio.herokuapp.com/">Blogs</a>
+- 🐦 <a href="https://www.codechef.com/users/shivamkrs89">Codechef</a>
+- 📝 <a href="http://shivamkrs-portfolio.herokuapp.com/">Portfolio</a>
 
 
 
 
 
-```
-<!--END_SECTION:waka-->
+
